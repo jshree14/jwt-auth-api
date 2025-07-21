@@ -1,0 +1,9 @@
+[
+  {
+    "id": "51059efe-4be5-43ba-942e-a7a6efadcce5",
+    "username": "alice",
+    "passwordHash": "$2b$10$GfZQjZuCKTQT37SDIAfSh.2i2plglYTF3HmO7jPyffX0dOWnsc15u",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1MTA1OWVmZS00YmU1LTQzYmEtOTQyZS1hN2E2ZWZhZGNjZTUiLCJpYXQiOjE3NTMxMTAxNjAsImV4cCI6MTc1MzcxNDk2MH0.U4WZpFxu4eTsKLOeDpYaCuZfKpOgtszU3l-FGCrINHU",
+    "createdAt": "2025-07-21T12:03:53.942Z"
+  }
+]
